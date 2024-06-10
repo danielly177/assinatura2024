@@ -137,4 +137,6 @@ table {
 <meta charset="UTF-8">
 <meta name="________" content="_______=device-width, ________=_______">
 <title>AluraBooks</title>
-</head>
+</head>:root {
+    --cor-de-fundo: #EBECEE;
+}
